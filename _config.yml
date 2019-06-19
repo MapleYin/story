@@ -3,7 +3,7 @@ title: 一行和行行的故事
 subtitle: 生活中的无聊杂碎
 # welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
 # description: Vno Jekyll is a port of my Ghost theme vno.
-# creator: <a href="http://story.maple.im">@maple.im</a>
+creator: <a href="http://maple.im">Maple Yin</a>
 
 url: "http://story.maple.im"
 
@@ -13,7 +13,7 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: red
+cover_color: orange
 
 # The blog button should not be removed.
 blog_button:
@@ -22,7 +22,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-#     - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    - {title: 关于, description: about, url: 'http://story.maple.im'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
