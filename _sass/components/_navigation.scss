@@ -1,28 +1,30 @@
 nav {
-  display: inline-block;
+  // display: inline-block;
   position: relative;
 }
 
 .navigation {
-  display: inline-block;
-  float: left;
+  // display: inline-block;
+  // float: left;
   position: relative;
   margin: 0;
   list-style-type: none;
 }
 
   .navigation__item {
-    display: inline-block;
+    // display: inline-block;
     margin: 5px 1px 0 0;
     line-height: 1em;
 
     a {
       display: block;
       position: relative;
-      @extend .btn;
+      // @extend .btn;
       border-color: #FFF;
       color: #FFF;
       opacity: .8;
+
+      padding: 10px 0;
 
       &:hover {
         color: #FFF;

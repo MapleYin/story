@@ -1,8 +1,8 @@
 # Basic
 title: 一行和行行的故事
 subtitle: 生活中的无聊杂碎
-welcome_message: <a href="http://story.maple.im/2019/06/argument/">今天吵点什么</a>
-# description: Vno Jekyll is a port of my Ghost theme vno.
+# welcome_message: <a href="http://story.maple.im/2019/06/argument/">今天吵点什么</a>
+# description: 我们有最美好的初衷
 creator: <a href="http://maple.im">Maple Yin</a>
 
 url: "http://story.maple.im"
@@ -13,17 +13,18 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: orange
+cover_color: slate
 
 # The blog button should not be removed.
 blog_button:
-    title: Blog
-    description: Visit blog
+    title: 首页
+    description: Home Page
 
 # Navigation buttons in the front page.
 nav:
     # - {title: 关于, description: about, url: 'http://story.maple.im'}
-    - {title: 关于, description: about, url: 'http://story.maple.im'}
+    - {title: 今天吵点什么, description: argument, url: '/2019/06/argument'}
+    - {title: 关于, description: about, url: '/2019/06/about'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
